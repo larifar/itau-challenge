@@ -24,6 +24,7 @@ mvn spring-boot:run
 **4. Acesse a aplicação**
 
 API = http://localhost:9090
+
 Documentação = http://localhost:9090/swagger-ui.html
 
 **Opcional: Rodar com docker**
